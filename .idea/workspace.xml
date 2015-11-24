@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be652717-2713-4e9a-a9ef-fea5e70212bf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test02.html" afterPath="$PROJECT_DIR$/test02.html" />
-    </list>
+    <list default="true" id="be652717-2713-4e9a-a9ef-fea5e70212bf" name="Default" comment="" />
     <ignored path="alexa-mind-reader.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,8 +44,8 @@
       <file leaf-file-name="test02.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test02.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.09786184">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.27960527">
+              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -478,8 +476,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test02.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09786184">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.27960527">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
           <folding />
         </state>
       </provider>
